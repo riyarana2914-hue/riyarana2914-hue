@@ -39,9 +39,14 @@
 
 ---
 
-## 🌐 Connect With Me
+<h3 align="left">🌐 Connect With Me</h3>
 
-<a href="https://www.linkedin.com/in/riya-rana-4903b9384/">
-  <a href="riyarana2914@gmail.com">
+<p align="left">
+<a href="https://www.linkedin.com/in/riya-rana-4903b9384/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+<a href="mailto:riyarana2914@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
