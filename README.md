@@ -33,18 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=riyarana2914-hue&show_icons=true&theme=tokyonight"/>
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyarana2914-hue&theme=tokyonight"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyarana2914-hue&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/riya-rana-4903b9384/">
