@@ -42,5 +42,6 @@
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/riya-rana-4903b9384/">
+  <a href="riyarana2914@gmail.com">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
