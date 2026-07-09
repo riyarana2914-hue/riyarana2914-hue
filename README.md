@@ -7,14 +7,21 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
 ## 👩‍💻 About Me
 
-- 🎓 **B.Tech CSE Student**
-- 🏫 **Rayat Bahra Professional University**
-- 🌱 Currently learning **Full Stack Web Development**
-- 💻 Passionate about Web Development
-- 🚀 Love Building Real World Projects
-- 📍 India
+- 🎓 B.Tech CSE Student
+- 🏫 Rayat Bahra Professional University
+- 💻 Aspiring Full Stack Web Developer
+- 🌱 Currently learning HTML, CSS, JavaScript, C, C++, MongoDB
+- 🚀 Building Real World Projects
 
 ---
 
@@ -26,52 +33,20 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/riya-rana-4903b9384/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=riyarana2914-hue&show_icons=true&theme=tokyonight"/>
-
+<br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyarana2914-hue&theme=tokyonight"/>
-
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyarana2914-hue&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Connect With Me
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=riyarana2914-hue&theme=onedark&row=1&column=6"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## ✨ Quote
-
-> **"Success doesn't come from what you do occasionally, it comes from what you do consistently."** 🚀
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+<a href="https://www.linkedin.com/in/riya-rana-4903b9384/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
