@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Riya Rana</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:c850c0,100:8e2de2&height=220&section=header&text=Riya%20Rana&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20|%20Aspiring%20Full%20Stack%20Developer&descAlignY=60" />
+</p>
 <h3 align="center">💻 B.Tech CSE Student | Aspiring Full Stack Web Developer 🚀</h3>
 
 <p align="center">
