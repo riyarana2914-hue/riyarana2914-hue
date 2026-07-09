@@ -51,3 +51,17 @@
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
+
+---
+
+---
+
+<h3 align="center">💖 Thank You for Visiting My Profile! 💖</h3>
+
+<p align="center">
+⭐ If you like my work, don't forget to <b>Star</b> my repositories! ⭐
+</p>
+
+<p align="center">
+🚀 Happy Coding! 🚀
+</p>
