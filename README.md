@@ -56,12 +56,14 @@
 
 ---
 
-<h3 align="center">💖 Thank You for Visiting My Profile! 💖</h3>
-
 <p align="center">
-⭐ If you like my work, don't forget to <b>Star</b> my repositories! ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=220&section=header&text=Thank%20You!&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Thanks%20for%20visiting%20my%20GitHub!&descAlignY=60&descSize=22" />
 </p>
 
+<h2 align="center">💜 Thanks for Visiting! 💜</h2>
+
 <p align="center">
-🚀 Happy Coding! 🚀
+Keep Learning, Keep Growing! ✨<br>
+⭐ Feel free to explore my repositories.<br>
+🤝 Let's connect and build amazing projects together!
 </p>
