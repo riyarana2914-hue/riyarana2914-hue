@@ -62,8 +62,4 @@
 
 <h2 align="center">💜 Thanks for Visiting! 💜</h2>
 
-<p align="center">
-Keep Learning, Keep Growing! ✨<br>
-⭐ Feel free to explore my repositories.<br>
-🤝 Let's connect and build amazing projects together!
-</p>
+
